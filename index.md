@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+GITAM UNIVERSITY   
+ Bangalore, also known as Bengaluru (Kannada) is the capital of the Indian State of Karnataka. Bangalore is nicknamed the Garden City and was once called a Pensioner's Paradise. Located on the Deccan Plateau in the south-eastern part of Karnataka, Bangalore is India's third most populous city. There are a number of expats from across the world living in the city, thanks to the growing presence of Multi-National Companies.
 
-You can use the [editor on GitHub](https://github.com/Subhashsu/about-gitam/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Today as a large city and growing metropolis, Bangalore is home to many of the most well-recognised colleges and research institutions in India. Numerous public sector heavy industries, software companies, aerospace, telecommunications, and defence organizations are located in the city. Bangalore is known as the Silicon Valley of India because of its position as the nation's leading IT exporter. A demographically diverse city, Bangalore is a major economic and cultural hub and the fastest growing major metropolis in India.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+CLIMATE
 
-### Markdown
+Situated at a height of 949 meters (3113 ft.) above the sea level, the city is blessed with salubrious climate throughout the year. Till the beginning of nineties, most of the homes in Bangalore didn't need fans. In summer while the rest of India wilted in the heat, Bangaloreans would snuggle under warm blankets at night. The city has dry tropical savannah type of climate. The rains are very frequent and the summers are warm. Winters are cold. But no weather goes to its extreme. One can visit the city any time of the year and enjoy the pleasant climate.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Today, in summer the maximum temperature can rise to 36°C while the minimum temperature can drop to 20°C. In winter the maximum temperature can rise to 27°C and fall to less than 17°C. In spite of the maximum weather of 36°C, Bangalore is considered to be one of the coolest cities of India.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Subhashsu/about-gitam/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The monsoons begins in July and carries on till September. This is a lovely time when everything turns lush green. About 85% of the rainfall is recorded between 4 and 7 in the evening. Hence carrying an umbrella would be a wise thing to do. Bangalore has a pleasant climate. The city has a lot of greenery with trees lined up along both sides of most of the roads. The numerous gardens and parks, streets lined with trees are very soothing in what would have been a jungle of concrete.
